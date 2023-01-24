@@ -1,0 +1,70 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&family=Outfit:wght@200;500&display=swap');
+
+
+img{
+    width: 205px;
+    /* height: 250px; */
+    background-color: black;
+    border-radius: 10px;
+
+}
+
+.container{
+        background-color: hsl(0, 0%, 100%);
+        width: 180px;
+        height: 330px ;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        /* margin: 200px; */
+        padding: 20px;
+        text-align: center;
+        border-radius: 13px;
+        font-family: 'Outfit', sans-serif;
+        font-size: 15px;
+        float: left;
+    
+
+}
+
+h4{
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+h6{
+    font-weight: 400 ;
+    color: hsl(220, 15%, 55%);
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+
+}
+
+.component{
+    width: 100%;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    /* background-color: black; */
+    margin-top: 100px;
+}
+p{
+    display: block;
+    /* margin-right: 0px; */
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    /* background-color: black; */
+    
+}
+
+body{
+    width: 100%;
+}
